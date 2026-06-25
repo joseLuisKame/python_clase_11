@@ -15,6 +15,7 @@ Este proyecto reúne ejemplos, ejercicios y mini aplicaciones desarrolladas dura
 - `Clase 17/`: funciones lambda, ordenamiento, map/filter, ejemplos de interfaces gráficas con Tkinter y acceso a MySQL.
 - `Clase 18/`: introducción al desarrollo web, ampliación de la aplicación web y ejemplos de formularios HTML/CSS.
 - `Clase 19/`: decoradores, temporizadores, aplicación web con Flask, base de datos y plantillas HTML.
+- `Clase 20/`: funciones, aplicaciones Flask, comparaciones entre versiones de ejercicios y organización de una pequeña aplicación web.
 
 ## Objetivos del curso
 - Comprender fundamentos de Python.
