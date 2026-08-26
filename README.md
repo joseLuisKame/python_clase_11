@@ -20,6 +20,7 @@ Este proyecto reúne ejemplos, ejercicios y mini aplicaciones desarrolladas dura
 - `Clase 22/`: aplicaciones de IA generativa con Python, chatbots y uso de APIs de modelos de lenguaje.
 - `Clase 25/`: ingesta y consulta de datos con ejemplos de procesamiento y filtrado.
 - `Clase 26/`: mejora de pipelines RAG con embeddings multilingües, búsqueda híbrida densa y BM25, filtros por fuente y chatbots con múltiples proveedores.
+- `Clase 27/`: aplicación RAG modular con procesamiento de documentos, base vectorial ChromaDB, búsqueda híbrida BM25+densa y soporte para múltiples proveedores de modelos de lenguaje.
 
 > Las clases `1` a `10` trabajaron con material compartido desde Google Drive.
 
